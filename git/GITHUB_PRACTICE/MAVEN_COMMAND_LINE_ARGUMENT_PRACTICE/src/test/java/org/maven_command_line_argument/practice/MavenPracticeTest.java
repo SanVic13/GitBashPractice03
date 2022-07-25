@@ -12,7 +12,7 @@ public void mavenPracticeTest() {
 	System.out.println("making changes");
 	System.out.println("in MAVEN_PRACTICE_TEST_CLASS");
 	//changing as master
-	
+	Reporter.log("kfrk fnj",true);
 	Reporter.log("add");
 	Reporter.log("add");
 	Reporter.log("practice ====> MavenPracticeTest",true);
